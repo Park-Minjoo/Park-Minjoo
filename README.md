@@ -1,6 +1,6 @@
 ### Hi I'm Minjoo👋
-## How to be a best programmer? 
-## Welcome to mJwoRLd 🧡
+# How to be a best programmer? 
+# Welcome to mJwoRLd 🧡
 
 <!--
 **Park-Minjoo/Park-Minjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
