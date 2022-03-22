@@ -1,5 +1,5 @@
 ### Hi I'm Minjoo👋
-#### How to be a best programmer? 
+#### How to be a best programmer? 🤔
 #### Welcome to mJwoRLd 🧡
 
 <!--
