@@ -12,7 +12,6 @@
 	<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Conda-Forge&logoColor=white" />
-	
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
