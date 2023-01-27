@@ -8,10 +8,9 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />\
+	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
